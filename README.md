@@ -13,3 +13,12 @@ if(! function_exists('tarjome')){
     }
 }
 ```
+
+- at you view add this line of code
+
+```
+    {{tarjome('en','fa','hi')}}
+    
+```
+
+- change en to your source lang. change fa to your target lang. change hi to your text that you want to translate.
