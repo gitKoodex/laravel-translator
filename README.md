@@ -22,3 +22,8 @@ if(! function_exists('tarjome')){
 ```
 
 - change en to your source lang. change fa to your target lang. change hi to your text that you want to translate.
+
+## BASED ON
+- laravel
+- blade
+- php
